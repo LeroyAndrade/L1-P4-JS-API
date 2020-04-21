@@ -63,4 +63,3 @@ function Address(item) {
 //          id
 //          picture
 //          nat
-

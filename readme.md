@@ -9,7 +9,7 @@ Link naar de API: [Random user](https://randomuser.me/)
 De volgende aanroep levert 1 gebruiker op in JSON formaat.
 `https://randomuser.me/api/?results=1`   
 Wil je 100 gebruikers dan verhoog je het getal achter results tot 100. `https://randomuser.me/api/?results=100`
- 
+
 Er zijn nog meer opties die kun je vinden op de website. Lees ook de copyright door voor het gebruik van de afbeeldingen.
 
 ## Opdrachten
@@ -29,13 +29,3 @@ de standaard om te zetten.
 
 1. Roep de API aan en haal 3 random gebruikers op.
 2. Maak deze randomuser's aan in je project the Wall.
-
-
-
-
-
-
-
-
-
-
